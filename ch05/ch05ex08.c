@@ -19,5 +19,6 @@ int main(void)
 	scanf("%d", &fOp);
 	printf("%d %% %d is %d\n", fOp, sOp, fOp % sOp);
 	
+	getch();	// This is used to prevent the console window from closing.
 	return 0;
 }

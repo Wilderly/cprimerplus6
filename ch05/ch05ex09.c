@@ -26,6 +26,7 @@ int main(void)
 		printf("Enter another temperature in Fahrenheit or a non-integer value to exit.\n");
 	}
 	
+	getch();	// This is used to prevent the console window from closing.
 	return 0;
 }
 

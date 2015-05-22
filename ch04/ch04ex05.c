@@ -17,5 +17,6 @@ int main(void)
 	scanf("%f", &fsize);
 	printf("At %.2f Mbs, a file of %.2f MB downloads in %.2f seconds.\n", dlspeed, fsize, fsize / dlspeed * BYTE_IN_BITS);
 	
+	getch();	// This is used to prevent the console window from closing.
 	return 0;
 }

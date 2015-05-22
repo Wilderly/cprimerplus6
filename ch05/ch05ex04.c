@@ -25,5 +25,6 @@ int main(void) {
 		scanf("%f", &cm);
 	}
 	
+	getch();	// This is used to prevent the console window from closing.
 	return 0;
 }

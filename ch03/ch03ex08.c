@@ -20,5 +20,6 @@ int main()
 	printf("%.2f tablespoon(s)\n", (volCups * CUP_IN_OZ) * OZ_IN_TBSP);
 	printf("%.2f teaspoon(s)\n", (volCups * CUP_IN_OZ) * (OZ_IN_TBSP * TBSP_IN_TSP));
 	
+	getch();	// This is used to prevent the console window from closing.
 	return 0;
 }

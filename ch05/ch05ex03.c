@@ -26,5 +26,6 @@ int main(void)
 		scanf("%d", &numDays);
 	}
 	
+	getch();	// This is used to prevent the console window from closing.
 	return 0;
 }

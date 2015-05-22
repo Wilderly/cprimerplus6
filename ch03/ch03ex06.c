@@ -14,5 +14,6 @@ int main()
 	printf("Enter an amount of water in quarts: \n");
 	scanf("%f", &quarts);
 	printf("%.2f quart(s) of water contains %e water molecules.\n", quarts, quarts * QT_IN_G / 				MOL_IN_G);
+	getch();	// This is used to prevent the console window from closing.
 	return 0;
 }

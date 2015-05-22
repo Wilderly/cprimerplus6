@@ -16,5 +16,6 @@ int main(void)
 	printf("That's %.1f miles per gallon (MPG), dawg!\n", mi / gal);
 	printf("...which is %.1f liters-per-100-km.\n", (KM_PER_MI) / (mi / gal));
 	
+	getch();	// This is used to prevent the console window from closing.
 	return 0;
 }

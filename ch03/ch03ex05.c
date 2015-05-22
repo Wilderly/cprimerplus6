@@ -13,5 +13,6 @@ int main(void)
 	scanf("%f", &age);
 	printf("You are %.2f seconds old.\n", age * secondsYear);
 	
+	getch();	// This is used to prevent the console window from closing.
 	return 0;
 }

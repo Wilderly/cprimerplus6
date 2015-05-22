@@ -19,6 +19,7 @@ int main(void)
 	one_three();
 	printf("done!\n");
 	
+	getch();	// This is used to prevent the console window from closing.
 	return 0;
 }
 

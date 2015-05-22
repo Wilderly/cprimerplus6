@@ -24,6 +24,7 @@ int main(void)
 	smile();
 	printf("\n");
 	
+	getch();	// This is used to prevent the console window from closing.
 	return 0;
 }
 

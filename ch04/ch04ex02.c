@@ -19,5 +19,6 @@ int main(void)
 	printf("\"%-20s\"\n", name);
 	printf("\"%s\"\n", name);
 	
+	getch();	// This is used to prevent the console window from closing.
 	return 0;
 }

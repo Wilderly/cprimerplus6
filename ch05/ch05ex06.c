@@ -17,5 +17,6 @@ int main(void)
 		printf("sum = %d, squared = %d\n", sum, square);
 	}
 	
+	getch();	// This is used to prevent the console window from closing.
 	return 0;
 }

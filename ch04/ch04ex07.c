@@ -21,5 +21,6 @@ int main(void)
 	printf("%d is the minimum number of significant decimal digits for a double.\n", DBL_DIG);
 	printf("%d is the minimum number of significant decimal digits for a float.\n", FLT_DIG);
 
+	getch();	// This is used to prevent the console window from closing.
 	return 0;
 }

@@ -18,5 +18,6 @@ int main(void)
 	scanf("%s", name);
 	printf("%s, you are %.3f feet tall.\n", name, height / IN_IN_FT);
 	
+	getch();	// This is used to prevent the console window from closing.
 	return 0;
 }

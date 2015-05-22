@@ -21,6 +21,7 @@ int main(void)
 	jolly();
 	deny();
 	
+	getch();	// This is used to prevent the console window from closing.
 	return 0;
 }
 

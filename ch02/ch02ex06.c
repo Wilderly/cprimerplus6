@@ -11,5 +11,6 @@ int main(void)
 	printf("%d toes multiplied by 2 is %d toes.\n", toes, toes * 2);
 	printf("%d toes squared is %d toes.\n", toes, toes * toes);
 	
+	getch();	// This is used to prevent the console window from closing.
 	return 0;
 }

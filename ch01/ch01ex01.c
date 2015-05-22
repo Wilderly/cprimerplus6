@@ -14,6 +14,7 @@ int main(void)
 	scanf("%f", &inches);
 	centimeters = inches * IN_IN_CM;	
 	printf("%.2f inch(es) equals %.2f centimeter(s).\n", inches, centimeters);
-	
+
+	getch();				// This is used to prevent the console window from closing.	
 	return 0;
 }

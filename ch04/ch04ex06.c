@@ -25,5 +25,6 @@ int main(void)
 	printf("%7zd %8zd\n", strlen(fname), strlen(lname));
 	printf("%zd %7zd\n", strlen(fname), strlen(lname));
 	
+	getch();	// This is used to prevent the console window from closing.
 	return 0;
 }

@@ -8,5 +8,6 @@ int main(void)
 {
 	printf("Name: John Doe\n");
 	printf("Address: Tristan da Cunha\n");
+	getch();	// This is used to prevent the console window from closing.
 	return 0;
 }

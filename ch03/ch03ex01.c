@@ -24,5 +24,6 @@ int main(void)
 	printf("The maximum float value on this system is %e.\n", FLT_MAX);
 	printf("An example of float overflow: %e.\n", tooLargeFlt);	
 	
+	getch();	// This is used to prevent the console window from closing.
 	return 0;
 }

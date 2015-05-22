@@ -15,5 +15,6 @@ int main(void)
 	scanf("%f", &number);
 	printf("%.2f %.6e\n", number, number);
 	
+	getch();	// This is used to prevent the console window from closing.
 	return 0;
 }

@@ -11,6 +11,6 @@ int main(void)
 	ageDays = ageYears * 365;
 	
 	printf("You are %d years old, which is %d days old.\n", ageYears, ageDays);
-	
+	getch();	// This is used to prevent the console window from closing.
 	return 0;
 }

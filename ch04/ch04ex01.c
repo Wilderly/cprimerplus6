@@ -14,5 +14,6 @@ int main(void)
 	scanf("%s", lastname);
 	printf("%s, %s\n", lastname, firstname);
 	
+	getch();	// This is used to prevent the console window from closing.
 	return 0;
 }

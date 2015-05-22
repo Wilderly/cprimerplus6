@@ -12,5 +12,6 @@ int main()
 	scanf("%d", &asciiCode);
 	printf("The character for that ASCII code value is %c.\n", asciiCode);
 	
+	getch();	// This is used to prevent the console window from closing.
 	return 0;
 }
