@@ -31,7 +31,7 @@ int main(void)
 		{
 			printf("%c", k);
 		}
-		for (m = k - 2; m >= n; m--)			// letters, descending
+		for (m = k - 2; m >= n; m--)	// letters, descending
 		{
 			printf("%c", m);
 		}

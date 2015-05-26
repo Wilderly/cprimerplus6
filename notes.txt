@@ -1,0 +1,157 @@
+* ch02ex01.c
+
+- Write another version that asks the user to enter their first & last name.
+
+* ch02ex02.c
+
+- Write another version that asks the user to input their name & address.
+
+* ch02ex03.c
+
+- Write another version that asks the user to input their age.
+
+* ch02ex04.c
+
+- Write another version of the program that uses a loop to call the jolly() function 3 times.
+- Write a 99 Bottles of Beer on the Wall program.
+
+* ch02ex05.c
+
+- Research method(s) to simplify the output.
+
+* ch02ex06.c
+
+- DONE. Write another version that #define's toes as a constant.
+
+* ch02ex07.c
+
+- Write another version of the program that uses a loop to call the smile() function.
+
+* ch02ex08.c
+
+- ? :)
+
+* ch03ex01.c
+
+- Come back to this program at a later time because it's a bit complicated.
+- Write a progam that prints out all of the limits from float.h & limits.h.
+
+* ch03ex02.c
+
+- Write another version of this program that has a menu that asks the user to enter A for ASCII code to character, or B for character to ASCII code, & then does the conversion selected. Maybe even code an exit function that allows the user to back out & select another option when done.
+
+* ch03ex03.c
+
+- Research if there are any other sounds (custom or system) that can be played from the program.
+
+* ch03ex04.c
+
+- Write a program that prints each type in all of its notations.
+
+* ch03ex05.c
+
+- Write another version of the program that deals with hours, minutes, & seconds.
+
+* ch03ex06.c
+
+- Come back to this program at a later time because it's a bit complicated.
+
+* ch03ex07.c
+
+- Write another version of this program that has a menu that asks the user to enter A for inches to centimeters, or B for centimeters to inches, & then does the conversion selected. Maybe even code an exit function that allows the user to back out & select another option when done.
+
+* ch03ex08.c
+
+- ? :)
+
+* ch04ex01.c
+
+- Write another version of this program that allows you to enter both the first & last name at the same time.
+
+* ch04ex02.c
+
+- Come back to this program at a later time because you were unable to determine a satisfactory way of printing part d.
+
+* ch04ex03.c
+
+- Double-check online to see if this solution is correct. You had a bit of difficulty in determining what the author was requesting.
+
+* ch04ex04.c
+
+- Write another version of this program that also prints one's height in meters.
+
+* ch04ex05.c
+
+- Interesting.
+
+* ch04ex06.c
+
+- The program does what's asked for but it seems like there'd be a better method for doing this.
+
+* ch04ex07.c
+
+- Discover why DVAR had to be printed with %f when it's supposed to be a double (%d).
+
+* ch04ex08.c
+
+- You ended up grabbing your math from the internet--if you're ever feeling up to it, try to do it the hard way.
+
+* ch05ex01.c
+
+- Write another version of this program where the user input is provided via a function, so that it can be collected once before the while() & also from within.
+
+* ch05ex02.c
+
+- ? :)
+
+* ch05ex03.c
+
+- See notes for ch05ex01.c.
+
+* ch05ex04.c
+
+- See if there's a way to use % by converting non-integers to integers.
+
+* ch05ex05.c
+
+- Write another version that calculates how much money you get in 20 days if you receive $1 the first day, $2 the second day, $3 the third day, & so on.
+
+* ch05ex06.c
+
+- Write a square root function to do the calculation instead.
+
+* ch05ex07.c
+
+- Research argument promotions & %lf.
+
+* ch05ex08.
+
+- ? :)
+
+* ch05ex09.c
+
+- ? :)
+
+* ch06ex01.c
+
+- The program prints a '{' character to the screen for some odd reason.
+
+* ch06ex02.c
+
+- Try to figure out why you couldn't use ch = '$' in the for loop instead.
+
+* ch06ex03.c
+
+- Write another version of the program using a character array as suggested in the comments.
+
+* ch06ex04.c
+
+- 
+
+* ch06ex05.c
+
+- You weren't able to figure out how to do the final for loop (descending order).
+
+* ch06ex06.c
+
+- 
