@@ -7,7 +7,7 @@
 int main(void)
 {
     const int SIZE = 8;
-    int int i, number[SIZE];
+    int i, number[SIZE];
     
     printf("Enter 8 integer values separated by spaces: ");
     
