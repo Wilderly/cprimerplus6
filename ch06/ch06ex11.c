@@ -7,10 +7,9 @@
 int main(void)
 {
     const int SIZE = 8;
-    int number[SIZE];
+    int int i, number[SIZE];
+    
     printf("Enter 8 integer values separated by spaces: ");
-
-    int i;
     
     for (i = 0; i < SIZE; i++)
     {
@@ -21,7 +20,7 @@ int main(void)
     {
         printf("%d ", number[i]);
     }
-
-	getch();
+    
+    getch();
     return 0;
 }
