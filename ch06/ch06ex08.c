@@ -18,5 +18,6 @@ int main(void)
  			printf("Enter two floating-point numbers (non-numeric value to quit): ");
  		}
  
+ 	getch();
  	return 0;
 }

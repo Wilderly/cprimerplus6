@@ -18,6 +18,7 @@ int main(void)
 	{
 		printf("%c", word[i]);
 	}
+	
 	getch();
 	return 0;
 }
