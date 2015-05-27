@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 
-double calc(double n1, double n2);
+double calc(double, double);
 
 int main(void)
 {
